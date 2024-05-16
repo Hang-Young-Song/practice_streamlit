@@ -3,7 +3,6 @@ import requests
 import json
 import datetime
 import time
-import yaml
 import sqlite3
 import pandas as pd
 
